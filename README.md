@@ -6,7 +6,7 @@ https://sr.ht/~kyoto-framework/kyoto-framework/
 ## Why?
 
 Recent GitHub updates and overall company policy goes against my vision of open source projects.
-This opinion is shared by many people (https://sfconservancy.org/GiveUpGitHub/#ICE-contract-details).
+This opinion is shared by many people (https://sfconservancy.org/GiveUpGitHub/).
 So I decided to move the project to sr.ht, which policy and actions are quite more transparent.
 
 ## How?
