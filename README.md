@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-    <a href="https://pkg.go.dev/git.sr.ht/~kyoto-framework/kyoto">Website</a>&nbsp;&bull; <a href="#team">Get Started</a>&nbsp;&bull; <a href="#who-uses">Repository</a>&nbsp;&bull; <a href="#support-us">Support us</a>
+    <a href="https://kyoto.codes">Website</a>&nbsp;&bull; <a href="https://kyoto.codes/learn">Get Started</a>&nbsp;&bull; <a href="https://sr.ht/~kyoto-framework/kyoto-framework/">Repository</a>&nbsp;&bull; <a href="#support-us">Support us</a>
 </p>
 
 ## Motivation
