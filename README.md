@@ -89,6 +89,7 @@ $ git commit -m "My change"
 # Creating patchset
 $ git format-patch master --stdout > mypatch.patch
 # Then, just send this patch to this email: ~kyoto-framework/patches@lists.sr.ht
+$ git send-email mypatch.patch
 # It will be displayed here: https://lists.sr.ht/~kyoto-framework/patches
 ```
 
